@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-#define MAX_LETTER 10
+#define MAX_LETTER 50
 char note[MAX_LETTER];
 int num;
 void read();
